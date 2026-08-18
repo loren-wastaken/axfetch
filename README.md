@@ -5,7 +5,7 @@
 - [x] Basic CPU info (vendor and brand)
 
 Example:
-[example1.png](assets/example1.png)
+![example1.png](assets/example1.png)
 
 # Planned features
 - [ ] RAM Amount
