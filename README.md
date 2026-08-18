@@ -3,6 +3,10 @@
 **Architecture**: i386 (32-bit x86)
 # What's in this fetch tool
 - [x] Basic CPU info (vendor and brand)
+
+Example:
+[example1.png](assets/example1.png)
+
 # Planned features
 - [ ] RAM Amount
 - [ ] Disk space (if disk available)
