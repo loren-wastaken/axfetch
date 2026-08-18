@@ -4,7 +4,7 @@ section .text
     global _main
 
 _main:
-	; get cpu vendor id (like "GenuineIntel")
+	; get cpu vendor id (like "GenuineIntel,AuthenthicAMD and etc.")
 	mov eax, 0
 	cpuid
 
