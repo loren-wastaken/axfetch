@@ -17,7 +17,7 @@ $(OBJ): $(SRC)
 
 clean:
 	rm -f $(OBJ) $(TARGET)
-
+# i cooked here, now i dont understand 50% of it f**k...
 copy: $(TARGET)
 	@printf "Path to disk image: "; \
 	read IMAGE; \
